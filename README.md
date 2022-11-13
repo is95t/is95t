@@ -12,4 +12,4 @@ Unfortunately, the code, data and model for this work has not been upload due to
 
 ### Other Work
 
-Alongside my PhD research, I also have completed projects using neural networks (e.g. MLP, CNN), SVMs and decisions trees. I also enjoy working with time series data (after dealing with this sort of data in my PhD research) and therefore have applied my interest in both time series and machine learning to stock market data. My projects outside my research can be found at: https://github.com/is95t/Projects. 
+Alongside my PhD research, I also have completed projects using neural networks (e.g. MLP, CNN), SVMs and decisions trees. Projects outside my research can be found at: https://github.com/is95t/Projects. 
