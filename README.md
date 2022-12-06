@@ -1,10 +1,10 @@
 # About Me
 
 Isaac Taschimowitz | isaac.taschimowitz@gmail.com | CV available on request
-
+<!-- 
 ### PhD Research
 
-I am a PhD student in my second year at UCL, based in the Earth Science department (NERC DTP funded). My research involves using machine learning to model thermodynamic properties of deep planetary melts (using gaussian process regression (GPR)). 
+I am a PhD student in my second year at UCL, based in the Earth Science department (NERC DTP funded). My research involves using machine learning to model thermodynamic properties of deep planetary melts (using gaussian process regression (GPR)).  -->
 <!-- – that is using machine learning to find the equation of state for these materials.  -->
 
 <!-- I mainly use gaussian process regression (GPR) for this and have gained a solid appreciation for the mathematics behind these algorithms. Currently I am using Sci-Kit Learn and TensorFlow for this. -->
